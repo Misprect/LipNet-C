@@ -1,0 +1,123 @@
+s@0hjw8zawwcbc8sc!mym1ma0q2og9n!9'51 lzq''u?9c?vowcfgnt7t0mqqoyt4'pu2fw97f2
+
+hello
+[75, 2, 41]
+[2, 75]
+25
+[ CPULongType{} ]
+Epoch: 1, Loss: -3.43455
+hello
+[75, 2, 41]
+[2, 75]
+8
+[ CPULongType{} ]
+Epoch: 2, Loss: -4.32966
+hello
+[75, 2, 41]
+[2, 75]
+19
+[ CPULongType{} ]
+Epoch: 3, Loss: -3.31346
+hello
+[75, 2, 41]
+[2, 75]
+0
+[ CPULongType{} ]
+Epoch: 4, Loss: -2.36219
+hello
+[75, 2, 41]
+[2, 75]
+18
+[ CPULongType{} ]
+Epoch: 5, Loss: -3.21395
+hello
+[75, 2, 41]
+[2, 75]
+26
+[ CPULongType{} ]
+Epoch: 6, Loss: -3.11511
+hello
+[75, 2, 41]
+[2, 75]
+25
+[ CPULongType{} ]
+Epoch: 7, Loss: -3.21791
+hello
+[75, 2, 41]
+[2, 75]
+4
+[ CPULongType{} ]
+Epoch: 8, Loss: -4.70186
+hello
+[75, 2, 41]
+[2, 75]
+23
+[ CPULongType{} ]
+Epoch: 9, Loss: -2.75565
+hello
+[75, 2, 41]
+[2, 75]
+14
+[ CPULongType{} ]
+Epoch: 10, Loss: -4.6701
+hello
+[75, 2, 41]
+[2, 75]
+2
+[ CPULongType{} ]
+Epoch: 11, Loss: -5.94139
+hello
+[75, 2, 41]
+[2, 75]
+12
+[ CPULongType{} ]
+Epoch: 12, Loss: -3.39475
+hello
+[75, 2, 41]
+[2, 75]
+2
+[ CPULongType{} ]
+Epoch: 13, Loss: -5.85735
+hello
+[75, 2, 41]
+[2, 75]
+12
+[ CPULongType{} ]
+Epoch: 14, Loss: -4.9918
+hello
+[75, 2, 41]
+[2, 75]
+0
+[ CPULongType{} ]
+Epoch: 15, Loss: -2.07913
+hello
+[75, 2, 41]
+[2, 75]
+21
+[ CPULongType{} ]
+Epoch: 16, Loss: -3.32977
+hello
+[75, 2, 41]
+[2, 75]
+6
+[ CPULongType{} ]
+Epoch: 17, Loss: -5.65403
+hello
+[75, 2, 41]
+[2, 75]
+20
+[ CPULongType{} ]
+Epoch: 18, Loss: -3.44138
+hello
+[75, 2, 41]
+[2, 75]
+24
+[ CPULongType{} ]
+Epoch: 19, Loss: -4.31012
+hello
+[75, 2, 41]
+[2, 75]
+17
+[ CPULongType{} ]
+Epoch: 20, Loss: -3.22388
+bbn blle aa f tww nww                       
