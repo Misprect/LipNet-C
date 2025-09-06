@@ -1,10 +1,14 @@
-<h4>
-hello
-  
-this is unofficial c++ implementation of oxford 2016 research paper on lip reading
+#LipNet-Ai
+this is a machine learning project made by me and my team.
+this is a collaborative/team project
 
-project is developed using lib torch
+## My Contributions
+- Prepared **technical documentation** and project **presentation (PPT)**.  
+- Conducted research on ML concepts such as **CNN, RNN, LSTM, and TensorFlow**.  
+- Supported the team by organizing findings and ensuring clarity in reporting.  
 
-to copy this prject or implement review main.cpp and CMakelists.txt in directory minor1/main/main/
-
-</h4>
+## Tech Stack (Team)
+- Python, TensorFlow  
+- CNN, RNN, LSTM  
+- Pandas, NumPy  
+- CSV-based dataset 
